@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 title: CV Jana Rolki
 description: Nazywam się Jan Rolka i jestem studentem pierwszego roku na kierunku Informatyka i Systemy Inteligentne na Akademii Górniczo-Hutniczej w Krakowie
