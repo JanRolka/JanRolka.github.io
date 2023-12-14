@@ -3,3 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: CV Jana Rolki
 description: Nazywam się Jan Rolka i jestem studentem pierwszego roku na kierunku Informatyka i Systemy Inteligentne na Akademii Górniczo-Hutniczej w Krakowie
+
+##Moje projekty:
+#Pypou
+Razem z kolegami ze studiów stworzyliśmy grę mobilną inspirowaną popularnym niegdyś Pou.
